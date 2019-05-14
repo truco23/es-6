@@ -1,0 +1,7 @@
+- criar api (estática que representa a listagem de fotos)
+- criar view das fotos
+- criar modelo para representação das fotos
+- exibir as fotos na página
+- criar estilo das fotos
+- usar sass 
+- usar import css como JS
